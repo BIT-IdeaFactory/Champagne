@@ -21,6 +21,6 @@ const styles = StyleSheet.create({
         flex: 1,
         paddingTop: 15,
         backgroundColor: '#fff',
-        /* checking git functionality */
+        /* checking git functionality 222 */
     },
 });
