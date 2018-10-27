@@ -21,10 +21,5 @@ const styles = StyleSheet.create({
         flex: 1,
         paddingTop: 15,
         backgroundColor: '#fff',
-<<<<<<< HEAD
-        /* checking git functionality 222 */
-=======
-        /* checking git fudsajiodajiwdnctionality */
->>>>>>> 646c93372ad05c333a6b27c4826f9cac289762af
     },
 });
