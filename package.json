@@ -20,6 +20,7 @@
     "react-navigation": "^2.16.0"
   },
   "devDependencies": {
+    "expo-cli": "^2.2.4",
     "jest-expo": "30.0.0"
   }
 }
