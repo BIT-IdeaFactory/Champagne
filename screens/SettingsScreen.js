@@ -9,9 +9,7 @@ export default class SettingsScreen extends React.Component {
   render() {
       return (
           <ScrollView style={styles.container}>
-              {/*{fjiadjkaldw addjiwajdioad wajoidaj da}*/}
           </ScrollView>
-      // {SDAjdasjkdsa jwi jied woa d  LOREM IPSUEM }
       );
   }
 }
