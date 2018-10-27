@@ -15,4 +15,4 @@ Champagne, also Champagne-socialhub, is the most elegant and simple solution to 
 * **Piotr Sławęcki** - [sp9dev](https://github.com/sp9dev)
 * **Tomasz Gajda** - [nerooc](https://github.com/nerooc)
 
-See also the list of [contributors](https://github.com/Champagne-socialhub/Champagne/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/BIT-IdeaFactory/Champagne/contributors) who participated in this project.
