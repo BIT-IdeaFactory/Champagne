@@ -37,8 +37,8 @@ export default class SettingsScreen extends React.Component {
     async retrieveState(){
         try{
             AsyncStorage.getItem('Person').then((data) => {
-               this.setState({'Person':JSON.parse(data)});
-               console.log(this.state);
+                if(data !== null)
+                    this.setState({'Person':JSON.parse(data)});
             });
         } catch(error){
             console.log(error.message);
