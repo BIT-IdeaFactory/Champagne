@@ -15,7 +15,7 @@ export default class displayQR extends React.Component {
         <View style={styles.container}>
         <QRCode
           value={this.props.value}
-          size={200}
+          size={128}
           bgColor='purple'
           fgColor='white'/>
       </View>
